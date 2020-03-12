@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.ShortVeriTip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.ByteVeriTipi", "CSharpDersleri.ByteVeriTipi\CSharpDersleri.ByteVeriTipi.csproj", "{30760998-F587-47BB-8974-25A0D554CA88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.BoolVeriTipi", "CSharpDersleri.BoolVeriTipi\CSharpDersleri.BoolVeriTipi.csproj", "{1FEE2871-50EB-4537-B2D6-88026C191DA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{30760998-F587-47BB-8974-25A0D554CA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30760998-F587-47BB-8974-25A0D554CA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30760998-F587-47BB-8974-25A0D554CA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEE2871-50EB-4537-B2D6-88026C191DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEE2871-50EB-4537-B2D6-88026C191DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEE2871-50EB-4537-B2D6-88026C191DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEE2871-50EB-4537-B2D6-88026C191DA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{35273955-0888-4383-9F2B-5F72BED36752} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
 		{DD222EFC-B6F9-4940-A445-409E5588B93E} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
 		{30760998-F587-47BB-8974-25A0D554CA88} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
+		{1FEE2871-50EB-4537-B2D6-88026C191DA5} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {57323230-FFC3-4ABC-B735-4A81B467EFBF}
