@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.BoolVeriTipi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.CharVeriTipi", "CSharpDersleri.CharVeriTipi\CSharpDersleri.CharVeriTipi.csproj", "{985CF9BD-6E8F-450F-8BA7-42954460C1A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.DoubleVeriTipi", "CSharpDersleri.DoubleVeriTipi\CSharpDersleri.DoubleVeriTipi.csproj", "{C640E721-C923-4101-8157-43E34D38EBF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDersleri.DecimalVeriTipi", "CSharpDersleri.DecimalVeriTipi\CSharpDersleri.DecimalVeriTipi.csproj", "{0E6598D1-974B-467C-A509-4456A0F0FA7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,14 @@ Global
 		{985CF9BD-6E8F-450F-8BA7-42954460C1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{985CF9BD-6E8F-450F-8BA7-42954460C1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{985CF9BD-6E8F-450F-8BA7-42954460C1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C640E721-C923-4101-8157-43E34D38EBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C640E721-C923-4101-8157-43E34D38EBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C640E721-C923-4101-8157-43E34D38EBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C640E721-C923-4101-8157-43E34D38EBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6598D1-974B-467C-A509-4456A0F0FA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6598D1-974B-467C-A509-4456A0F0FA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6598D1-974B-467C-A509-4456A0F0FA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6598D1-974B-467C-A509-4456A0F0FA7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +70,8 @@ Global
 		{30760998-F587-47BB-8974-25A0D554CA88} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
 		{1FEE2871-50EB-4537-B2D6-88026C191DA5} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
 		{985CF9BD-6E8F-450F-8BA7-42954460C1A8} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
+		{C640E721-C923-4101-8157-43E34D38EBF8} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
+		{0E6598D1-974B-467C-A509-4456A0F0FA7A} = {AF8D59B9-C143-417C-8308-F0150DDE2BED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {57323230-FFC3-4ABC-B735-4A81B467EFBF}
